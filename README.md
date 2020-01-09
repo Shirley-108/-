@@ -11,6 +11,9 @@
 可自動餵魚飼料和開關燈，解決出遠門無法餵魚的困擾  
 讓魚寶貝安心成長XD  
 
+## 使用的套件
+
+
 ## 硬體設備
 ![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/%E8%A8%AD%E5%82%99%E6%B8%85%E5%96%AE.png)
 ## 製作
@@ -39,3 +42,13 @@
 1.	伺服馬達的橘線接麵包板的「+」極、紅線接「-」極、咖啡色的線接Arduino uno的腳位9。
 2.	Arduino腳位8接樹莓派腳位18。
 ![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/%E6%A8%B9%E8%8E%93%E6%B4%BE%E9%9B%BB%E8%B7%AF%E5%9C%96.png)
+
+## 分工
+張育銓、蕭棋文、陳佳境
+- 系統實作
+- 文件編輯
+- 簡報編輯
+- 設備採買
+- 設備組裝
+- 熬夜三天
+- Call out
