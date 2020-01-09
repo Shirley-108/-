@@ -12,7 +12,7 @@
 讓魚寶貝安心成長XD  
 
 ## 硬體設備
-
+![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/%E8%A8%AD%E5%82%99%E6%B8%85%E5%96%AE.png)
 ## 製作
 ### Arduino與各種感測器的製作:
 1.	準備好水位感測器、TDS水質檢測模組、水濁度感測器、Arduino uno、麵包板、數條杜邦線。
@@ -36,3 +36,4 @@
 ### 樹莓派與伺服馬達(灑魚飼料器):
 1.	伺服馬達的橘線接麵包板的「+」極、紅線接「-」極、咖啡色的線接Arduino uno的腳位9。
 2.	Arduino腳位8接樹莓派腳位18。
+![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/%E6%A8%B9%E8%8E%93%E6%B4%BE%E9%9B%BB%E8%B7%AF%E5%9C%96.png)
