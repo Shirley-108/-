@@ -47,7 +47,7 @@ Node js
 4.	繼電器接USB LED燈和沈水過濾器請參考下圖。
  ![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/%E5%9C%96%E7%89%87/%E5%9C%961.png)
 ### 樹莓派與伺服馬達(灑魚飼料器):
-1.	伺服馬達的橘線接麵包板的「+」極、紅線接「-」極、咖啡色的線接Arduino uno的腳位9。
+1.	伺服馬達的紅線接麵包板的「+」極、咖啡色的線接「-」極、橘線接Arduino uno的腳位9。
 2.	Arduino腳位8接樹莓派腳位18。
 ![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/%E5%9C%96%E7%89%87/%E6%A8%B9%E8%8E%93%E6%B4%BE%E9%9B%BB%E8%B7%AF%E5%9C%96.png)
 
