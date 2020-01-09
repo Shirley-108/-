@@ -23,6 +23,8 @@
 ### Arduino與光敏電阻的製作:
 1.	準備好一個光敏電阻、一個電阻。
 2.	將光敏電阻插在麵包板上，光敏電阻一端接到麵包板上的「+」極；另一端接電阻其中一端，及用杜邦線接到Arduino上的腳位A0。電阻另外一端接到麵包板上的「-」極。
+![image](https://github.com/Shirley-108/Keep-holding-on-my-fish-baby-/blob/master/Arduino%E9%9B%BB%E8%B7%AF%E5%9C%96.png)
+
 ### 撰寫Arduino程式:
 1.	Download the Arduino IDE
 2.	開寫(sketch_dec30a.ino)
