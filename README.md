@@ -12,14 +12,14 @@
 讓魚寶貝安心成長XD  
 
 ## 使用的套件
-Node js
-1.Express
-2.body-parser
-3.http
-4.Socket.io
-5.onoff
-6.child_process
-7.time
+Node js  
+1.Express  
+2.body-parser  
+3.http  
+4.Socket.io  
+5.onoff  
+6.child_process  
+7.time  
 
 
 ## 硬體設備
